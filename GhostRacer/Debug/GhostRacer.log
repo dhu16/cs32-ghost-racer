@@ -1,6 +1,0 @@
-﻿  Actor.cpp
-C:\Users\Daniel\source\repos\GhostRacer\GhostRacer\Actor.h(209,108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-  StudentWorld.cpp
-C:\Users\Daniel\source\repos\GhostRacer\GhostRacer\Actor.h(209,108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-  Generating Code...
-  GhostRacer.vcxproj -> C:\Users\Daniel\source\repos\GhostRacer\Debug\GhostRacer.exe
